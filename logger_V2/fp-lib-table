@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "loggerV2")(type "KiCad")(uri "${KIPRJMOD}/loggerV2.pretty")(options "")(descr ""))
+)
